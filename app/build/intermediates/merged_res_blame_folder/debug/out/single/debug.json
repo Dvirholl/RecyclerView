@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-merged_res-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-merged_res-32:\\drawable_soccer.png.flat",
+        "source": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-main-34:\\drawable\\soccer.png"
+    },
+    {
+        "merged": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-merged_res-32:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-main-34:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-merged_res-32:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-main-34:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-merged_res-32:\\drawable_interesting.png.flat",
+        "source": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-main-34:\\drawable\\interesting.png"
+    },
+    {
+        "merged": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-merged_res-32:\\drawable_wow.png.flat",
+        "source": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-main-34:\\drawable\\wow.png"
+    },
+    {
+        "merged": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-merged_res-32:\\drawable_baseball.png.flat",
+        "source": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-main-34:\\drawable\\baseball.png"
+    },
+    {
+        "merged": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-merged_res-32:\\drawable_basketball.png.flat",
+        "source": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-main-34:\\drawable\\basketball.png"
+    },
+    {
+        "merged": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-merged_res-32:\\drawable_football.png.flat",
+        "source": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-main-34:\\drawable\\football.png"
+    },
+    {
+        "merged": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-merged_res-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-merged_res-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.recyclerviewdvir.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.example.recyclerviewdvir.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-merged_res-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-merged_res-32:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-main-34:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-merged_res-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-merged_res-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-merged_res-32:\\drawable_amazing.png.flat",
+        "source": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-main-34:\\drawable\\amazing.png"
+    },
+    {
+        "merged": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-merged_res-32:\\drawable_volleyball.png.flat",
+        "source": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-main-34:\\drawable\\volleyball.png"
+    },
+    {
+        "merged": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-merged_res-32:\\drawable_good.png.flat",
+        "source": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-main-34:\\drawable\\good.png"
+    },
+    {
+        "merged": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-merged_res-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-merged_res-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-merged_res-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-merged_res-32:\\layout_itemview.xml.flat",
+        "source": "C:\\Users\\Dvir\\.gradle\\daemon\\8.2\\com.example.recyclerviewdvir.app-main-34:\\layout\\itemview.xml"
+    }
+]

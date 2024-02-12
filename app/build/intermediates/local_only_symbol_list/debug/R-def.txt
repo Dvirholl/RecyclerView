@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable amazing
+drawable baseball
+drawable basketball
+drawable football
+drawable good
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable interesting
+drawable soccer
+drawable volleyball
+drawable wow
+id RecyclerView
+id Textforimage
+id imageview
+layout activity_main
+layout itemview
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.RecyclerViewDvir
+style Theme.RecyclerViewDvir
+xml backup_rules
+xml data_extraction_rules
